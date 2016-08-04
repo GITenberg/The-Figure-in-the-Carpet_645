@@ -1,0 +1,44 @@
+_repo: The-Figure-in-the-Carpet_645
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: "\"The Figure in the Carpet\" is a short story published in 1896 in London,\
+  \ by American writer Henry James. The short story is usually referred to as a novella\
+  \ and is told in the first person. The narrator, whose name is never revealed, meets\
+  \ his favorite author and becomes obsessed with discovering the secret meaning or\
+  \ intention within all the author's works.\nHeretofore, “The Figure in the Carpet”\
+  \ has evaded definitive interpretation. In his book Henry James (1913), Ford Madox\
+  \ Ford wrote that after the nouvelle was published, James’ contemporaries had set\
+  \ themselves on a quest to locate the Figure as an identifiable physical entity.\
+  \ In the preface to his Choice of Kipling’s Verse (1941), T.S. Eliot wrote, “Nowadays,\
+  \ we all look for the Figure in the Carpet.” Absent a definitive interpretation,\
+  \ it opened new possibilities for the study of ambiguity in literature.\n\n\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '645'
+  wikidata: Q3224800
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interpersonal relations -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'Critics -- Fiction'
+- !lcsh 'Secrecy -- Fiction'
+- !lcsh 'Women novelists -- Fiction'
+- GITenberg
+title: The Figure in the Carpet
+url: http://www.gutenberg.org/ebooks/645
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Motif_dans_le_tapis
+- https://en.wikipedia.org/wiki/The_Figure_in_the_Carpet
